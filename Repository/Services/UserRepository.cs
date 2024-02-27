@@ -30,6 +30,7 @@ namespace Repository.Services
             this.context = context;
             this.config = config;
         }
+        //Registration
         public User UserRegistration(RegisterModel model)
         {
             User entity = new User();
