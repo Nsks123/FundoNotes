@@ -141,6 +141,7 @@ namespace Repository.Services
         {
             return context.UserTable.Any(x => x.Email == Email);    
         }
+        //Json Web Token
         public string GenerateToken(string Email,int Id)
         {
             var securityKey = new SymmetricSecurityKey(Encoding.UTF8.GetBytes(config["Jwt:Key"]));
