@@ -1,0 +1,271 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\hp\\Desktop\\LocoBuzz\\Training\\Fundo_Notes1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{56014CEF-BEC3-416A-B37D-117C316580B8}|..\\Repository\\Repository.csproj|c:\\users\\hp\\desktop\\locobuzz\\training\\repository\\services\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{56014CEF-BEC3-416A-B37D-117C316580B8}|..\\Repository\\Repository.csproj|c:\\users\\hp\\desktop\\locobuzz\\training\\repository\\context\\democontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EF391FB3-0766-46AE-B51E-7F8110629FA3}|..\\Manager\\Manager.csproj|c:\\users\\hp\\desktop\\locobuzz\\training\\manager\\services\\usermanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EF391FB3-0766-46AE-B51E-7F8110629FA3}|..\\Manager\\Manager.csproj|c:\\users\\hp\\desktop\\locobuzz\\training\\manager\\interfaces\\iusermanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B46396A3-F4D8-4BDF-84B6-AA4695A5F703}|Fundo_Notes1.csproj|c:\\users\\hp\\desktop\\locobuzz\\training\\fundo_notes1\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B46396A3-F4D8-4BDF-84B6-AA4695A5F703}|Fundo_Notes1.csproj|solutionrelative:controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B46396A3-F4D8-4BDF-84B6-AA4695A5F703}|Fundo_Notes1.csproj|c:\\users\\hp\\desktop\\locobuzz\\training\\fundo_notes1\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B46396A3-F4D8-4BDF-84B6-AA4695A5F703}|Fundo_Notes1.csproj|solutionrelative:startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{56014CEF-BEC3-416A-B37D-117C316580B8}|..\\Repository\\Repository.csproj|c:\\users\\hp\\desktop\\locobuzz\\training\\repository\\entity\\noteentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{56014CEF-BEC3-416A-B37D-117C316580B8}|..\\Repository\\Repository.csproj|c:\\users\\hp\\desktop\\locobuzz\\training\\repository\\entity\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{56014CEF-BEC3-416A-B37D-117C316580B8}|..\\Repository\\Repository.csproj|c:\\users\\hp\\desktop\\locobuzz\\training\\repository\\interfaces\\iuserrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9317E7CE-82C1-43C9-988D-0E45B3937F3B}|..\\Common\\Common.csproj|c:\\users\\hp\\desktop\\locobuzz\\training\\common\\requestmodels\\loginmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9317E7CE-82C1-43C9-988D-0E45B3937F3B}|..\\Common\\Common.csproj|c:\\users\\hp\\desktop\\locobuzz\\training\\common\\send.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9317E7CE-82C1-43C9-988D-0E45B3937F3B}|..\\Common\\Common.csproj|c:\\users\\hp\\desktop\\locobuzz\\training\\common\\requestmodels\\resetpasswordmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9317E7CE-82C1-43C9-988D-0E45B3937F3B}|..\\Common\\Common.csproj|c:\\users\\hp\\desktop\\locobuzz\\training\\common\\requestmodels\\registermodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9317E7CE-82C1-43C9-988D-0E45B3937F3B}|..\\Common\\Common.csproj|c:\\users\\hp\\desktop\\locobuzz\\training\\common\\requestmodels\\forgotpasswordmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B46396A3-F4D8-4BDF-84B6-AA4695A5F703}|Fundo_Notes1.csproj|c:\\users\\hp\\desktop\\locobuzz\\training\\fundo_notes1\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{B46396A3-F4D8-4BDF-84B6-AA4695A5F703}|Fundo_Notes1.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{56014CEF-BEC3-416A-B37D-117C316580B8}|..\\Repository\\Repository.csproj|c:\\users\\hp\\desktop\\locobuzz\\training\\repository\\entity\\demoentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "NoteEntity.cs",
+              "DocumentMoniker": "C:\\Users\\hp\\Desktop\\LocoBuzz\\Training\\Repository\\Entity\\NoteEntity.cs",
+              "RelativeDocumentMoniker": "..\\Repository\\Entity\\NoteEntity.cs",
+              "ToolTip": "C:\\Users\\hp\\Desktop\\LocoBuzz\\Training\\Repository\\Entity\\NoteEntity.cs",
+              "RelativeToolTip": "..\\Repository\\Entity\\NoteEntity.cs",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAAwBsAAAAzAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-27T09:09:57.013Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "ResetPasswordModel.cs",
+              "DocumentMoniker": "C:\\Users\\hp\\Desktop\\LocoBuzz\\Training\\Common\\RequestModels\\ResetPasswordModel.cs",
+              "RelativeDocumentMoniker": "..\\Common\\RequestModels\\ResetPasswordModel.cs",
+              "ToolTip": "C:\\Users\\hp\\Desktop\\LocoBuzz\\Training\\Common\\RequestModels\\ResetPasswordModel.cs",
+              "RelativeToolTip": "..\\Common\\RequestModels\\ResetPasswordModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-26T18:51:46.937Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Send.cs",
+              "DocumentMoniker": "C:\\Users\\hp\\Desktop\\LocoBuzz\\Training\\Common\\Send.cs",
+              "RelativeDocumentMoniker": "..\\Common\\Send.cs",
+              "ToolTip": "C:\\Users\\hp\\Desktop\\LocoBuzz\\Training\\Common\\Send.cs",
+              "RelativeToolTip": "..\\Common\\Send.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAABVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-26T12:03:40.063Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "ForgotPasswordModel.cs",
+              "DocumentMoniker": "C:\\Users\\hp\\Desktop\\LocoBuzz\\Training\\Common\\RequestModels\\ForgotPasswordModel.cs",
+              "RelativeDocumentMoniker": "..\\Common\\RequestModels\\ForgotPasswordModel.cs",
+              "ToolTip": "C:\\Users\\hp\\Desktop\\LocoBuzz\\Training\\Common\\RequestModels\\ForgotPasswordModel.cs",
+              "RelativeToolTip": "..\\Common\\RequestModels\\ForgotPasswordModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-26T11:13:02.168Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "UserController.cs",
+              "DocumentMoniker": "C:\\Users\\hp\\Desktop\\LocoBuzz\\Training\\Fundo_Notes1\\Controllers\\UserController.cs",
+              "RelativeDocumentMoniker": "Controllers\\UserController.cs",
+              "ToolTip": "C:\\Users\\hp\\Desktop\\LocoBuzz\\Training\\Fundo_Notes1\\Controllers\\UserController.cs",
+              "RelativeToolTip": "Controllers\\UserController.cs",
+              "ViewState": "AQIAAE4AAAAAAAAAAAAwwFYAAAAyAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-23T10:52:32.956Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "UserRepository.cs",
+              "DocumentMoniker": "C:\\Users\\hp\\Desktop\\LocoBuzz\\Training\\Repository\\Services\\UserRepository.cs",
+              "RelativeDocumentMoniker": "..\\Repository\\Services\\UserRepository.cs",
+              "ToolTip": "C:\\Users\\hp\\Desktop\\LocoBuzz\\Training\\Repository\\Services\\UserRepository.cs",
+              "RelativeToolTip": "..\\Repository\\Services\\UserRepository.cs",
+              "ViewState": "AQIAAHgAAAAAAAAAAAAowIAAAAA8AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-23T05:24:09.632Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\hp\\Desktop\\LocoBuzz\\Training\\Repository\\Entity\\User.cs",
+              "RelativeDocumentMoniker": "..\\Repository\\Entity\\User.cs",
+              "ToolTip": "C:\\Users\\hp\\Desktop\\LocoBuzz\\Training\\Repository\\Entity\\User.cs",
+              "RelativeToolTip": "..\\Repository\\Entity\\User.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAoAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-22T12:02:24.84Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "IUserRepository.cs",
+              "DocumentMoniker": "C:\\Users\\hp\\Desktop\\LocoBuzz\\Training\\Repository\\Interfaces\\IUserRepository.cs",
+              "RelativeDocumentMoniker": "..\\Repository\\Interfaces\\IUserRepository.cs",
+              "ToolTip": "C:\\Users\\hp\\Desktop\\LocoBuzz\\Training\\Repository\\Interfaces\\IUserRepository.cs",
+              "RelativeToolTip": "..\\Repository\\Interfaces\\IUserRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAA6AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-23T05:47:36.274Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "RegisterModel.cs",
+              "DocumentMoniker": "C:\\Users\\hp\\Desktop\\LocoBuzz\\Training\\Common\\RequestModels\\RegisterModel.cs",
+              "RelativeDocumentMoniker": "..\\Common\\RequestModels\\RegisterModel.cs",
+              "ToolTip": "C:\\Users\\hp\\Desktop\\LocoBuzz\\Training\\Common\\RequestModels\\RegisterModel.cs",
+              "RelativeToolTip": "..\\Common\\RequestModels\\RegisterModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-23T05:16:17.897Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "LoginModel.cs",
+              "DocumentMoniker": "C:\\Users\\hp\\Desktop\\LocoBuzz\\Training\\Common\\RequestModels\\LoginModel.cs",
+              "RelativeDocumentMoniker": "..\\Common\\RequestModels\\LoginModel.cs",
+              "ToolTip": "C:\\Users\\hp\\Desktop\\LocoBuzz\\Training\\Common\\RequestModels\\LoginModel.cs",
+              "RelativeToolTip": "..\\Common\\RequestModels\\LoginModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-24T05:00:07.489Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "IUserManager.cs",
+              "DocumentMoniker": "C:\\Users\\hp\\Desktop\\LocoBuzz\\Training\\Manager\\Interfaces\\IUserManager.cs",
+              "RelativeDocumentMoniker": "..\\Manager\\Interfaces\\IUserManager.cs",
+              "ToolTip": "C:\\Users\\hp\\Desktop\\LocoBuzz\\Training\\Manager\\Interfaces\\IUserManager.cs",
+              "RelativeToolTip": "..\\Manager\\Interfaces\\IUserManager.cs",
+              "ViewState": "AQIAAAEAAAAAAAAAAAAgwAsAAAAyAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-23T09:16:44.686Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Startup.cs",
+              "DocumentMoniker": "C:\\Users\\hp\\Desktop\\LocoBuzz\\Training\\Fundo_Notes1\\Startup.cs",
+              "RelativeDocumentMoniker": "Startup.cs",
+              "ToolTip": "C:\\Users\\hp\\Desktop\\LocoBuzz\\Training\\Fundo_Notes1\\Startup.cs",
+              "RelativeToolTip": "Startup.cs",
+              "ViewState": "AQIAACEAAAAAAAAAAAAswCkAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-22T11:38:29.648Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "UserManager.cs",
+              "DocumentMoniker": "C:\\Users\\hp\\Desktop\\LocoBuzz\\Training\\Manager\\Services\\UserManager.cs",
+              "RelativeDocumentMoniker": "..\\Manager\\Services\\UserManager.cs",
+              "ToolTip": "C:\\Users\\hp\\Desktop\\LocoBuzz\\Training\\Manager\\Services\\UserManager.cs",
+              "RelativeToolTip": "..\\Manager\\Services\\UserManager.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAEAAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-23T09:16:13.622Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "DemoContext.cs",
+              "DocumentMoniker": "C:\\Users\\hp\\Desktop\\LocoBuzz\\Training\\Repository\\Context\\DemoContext.cs",
+              "RelativeDocumentMoniker": "..\\Repository\\Context\\DemoContext.cs",
+              "ToolTip": "C:\\Users\\hp\\Desktop\\LocoBuzz\\Training\\Repository\\Context\\DemoContext.cs",
+              "RelativeToolTip": "..\\Repository\\Context\\DemoContext.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAA0AAAA4AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-22T11:30:30.289Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\hp\\Desktop\\LocoBuzz\\Training\\Fundo_Notes1\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "C:\\Users\\hp\\Desktop\\LocoBuzz\\Training\\Fundo_Notes1\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAA9AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-02-22T11:35:18.266Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "DemoEntity.cs",
+              "DocumentMoniker": "C:\\Users\\hp\\Desktop\\LocoBuzz\\Training\\Repository\\Entity\\DemoEntity.cs",
+              "RelativeDocumentMoniker": "..\\Repository\\Entity\\DemoEntity.cs",
+              "ToolTip": "C:\\Users\\hp\\Desktop\\LocoBuzz\\Training\\Repository\\Entity\\DemoEntity.cs",
+              "RelativeToolTip": "..\\Repository\\Entity\\DemoEntity.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAIBZwA4AAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-22T11:30:56.066Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
