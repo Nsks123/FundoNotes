@@ -81,6 +81,7 @@ namespace Repository.Services
 
 
         }
+        //Encryption
         public  string Encryption(string key, string Password)
         {
             byte[] Initial_Vector = new byte[16];
@@ -110,7 +111,6 @@ namespace Repository.Services
 
             return Convert.ToBase64String(array);
         }
-
         public  string Decryption(string key, string Password)
         {
             byte[] iv = new byte[16];
