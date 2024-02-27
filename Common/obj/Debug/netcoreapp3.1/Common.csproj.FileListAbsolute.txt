@@ -1,0 +1,9 @@
+C:\Users\hp\Desktop\LocoBuzz\Training\Common\bin\Debug\netcoreapp3.1\Common.deps.json
+C:\Users\hp\Desktop\LocoBuzz\Training\Common\bin\Debug\netcoreapp3.1\Common.dll
+C:\Users\hp\Desktop\LocoBuzz\Training\Common\bin\Debug\netcoreapp3.1\Common.pdb
+C:\Users\hp\Desktop\LocoBuzz\Training\Common\obj\Debug\netcoreapp3.1\Common.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hp\Desktop\LocoBuzz\Training\Common\obj\Debug\netcoreapp3.1\Common.AssemblyInfoInputs.cache
+C:\Users\hp\Desktop\LocoBuzz\Training\Common\obj\Debug\netcoreapp3.1\Common.AssemblyInfo.cs
+C:\Users\hp\Desktop\LocoBuzz\Training\Common\obj\Debug\netcoreapp3.1\Common.csproj.CoreCompileInputs.cache
+C:\Users\hp\Desktop\LocoBuzz\Training\Common\obj\Debug\netcoreapp3.1\Common.dll
+C:\Users\hp\Desktop\LocoBuzz\Training\Common\obj\Debug\netcoreapp3.1\Common.pdb
