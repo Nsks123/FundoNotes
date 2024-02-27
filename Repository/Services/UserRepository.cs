@@ -161,6 +161,7 @@ namespace Repository.Services
             return new JwtSecurityTokenHandler().WriteToken(token);
 
         }
+        //Forgot Password
         public string ForgetPass(string Email)
         {
             var user=context.UserTable.FirstOrDefault(x => x.Email == Email); 
