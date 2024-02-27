@@ -111,6 +111,7 @@ namespace Repository.Services
 
             return Convert.ToBase64String(array);
         }
+        //Decryption
         public  string Decryption(string key, string Password)
         {
             byte[] iv = new byte[16];
