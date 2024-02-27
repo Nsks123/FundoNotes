@@ -73,8 +73,7 @@
               "RelativeToolTip": "..\\Repository\\Entity\\NoteEntity.cs",
               "ViewState": "AQIAAAwAAAAAAAAAAAAAwBsAAAAzAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-02-27T09:09:57.013Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-02-27T09:09:57.013Z"
             },
             {
               "$type": "Document",
@@ -122,8 +121,7 @@
               "RelativeToolTip": "Controllers\\UserController.cs",
               "ViewState": "AQIAAE4AAAAAAAAAAAAwwFYAAAAyAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-02-23T10:52:32.956Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-02-23T10:52:32.956Z"
             },
             {
               "$type": "Document",
@@ -133,7 +131,7 @@
               "RelativeDocumentMoniker": "..\\Repository\\Services\\UserRepository.cs",
               "ToolTip": "C:\\Users\\hp\\Desktop\\LocoBuzz\\Training\\Repository\\Services\\UserRepository.cs",
               "RelativeToolTip": "..\\Repository\\Services\\UserRepository.cs",
-              "ViewState": "AQIAAHgAAAAAAAAAAAAowIAAAAA8AAAA",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAACAAAAAWAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-02-23T05:24:09.632Z",
               "EditorCaption": ""
@@ -148,8 +146,7 @@
               "RelativeToolTip": "..\\Repository\\Entity\\User.cs",
               "ViewState": "AQIAAAMAAAAAAAAAAAAAAAoAAAAIAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-02-22T12:02:24.84Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-02-22T12:02:24.84Z"
             },
             {
               "$type": "Document",
@@ -197,8 +194,7 @@
               "RelativeToolTip": "..\\Manager\\Interfaces\\IUserManager.cs",
               "ViewState": "AQIAAAEAAAAAAAAAAAAgwAsAAAAyAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-02-23T09:16:44.686Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-02-23T09:16:44.686Z"
             },
             {
               "$type": "Document",
@@ -210,8 +206,7 @@
               "RelativeToolTip": "Startup.cs",
               "ViewState": "AQIAACEAAAAAAAAAAAAswCkAAAANAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-02-22T11:38:29.648Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-02-22T11:38:29.648Z"
             },
             {
               "$type": "Document",
@@ -223,8 +218,7 @@
               "RelativeToolTip": "..\\Manager\\Services\\UserManager.cs",
               "ViewState": "AQIAAAMAAAAAAAAAAAAAAAEAAAAYAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-02-23T09:16:13.622Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-02-23T09:16:13.622Z"
             },
             {
               "$type": "Document",
@@ -236,8 +230,7 @@
               "RelativeToolTip": "..\\Repository\\Context\\DemoContext.cs",
               "ViewState": "AQIAAAMAAAAAAAAAAAAAAA0AAAA4AAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-02-22T11:30:30.289Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-02-22T11:30:30.289Z"
             },
             {
               "$type": "Document",
