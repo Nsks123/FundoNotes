@@ -175,6 +175,7 @@ namespace Repository.Services
                 return null;
             }
         }
+        //Reset Password
         public bool ResetPassword(string Email,ResetPasswordModel resetPasswordModel)
         {
             User user=context.UserTable.ToList().Find(user => user.Email == Email);
