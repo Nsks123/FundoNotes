@@ -7,3 +7,4 @@ C:\Users\hp\Desktop\LocoBuzz\Training\Common\obj\Debug\netcoreapp3.1\Common.Asse
 C:\Users\hp\Desktop\LocoBuzz\Training\Common\obj\Debug\netcoreapp3.1\Common.csproj.CoreCompileInputs.cache
 C:\Users\hp\Desktop\LocoBuzz\Training\Common\obj\Debug\netcoreapp3.1\Common.dll
 C:\Users\hp\Desktop\LocoBuzz\Training\Common\obj\Debug\netcoreapp3.1\Common.pdb
+C:\Users\hp\Desktop\LocoBuzz\Training\Common\obj\Debug\netcoreapp3.1\Common.sourcelink.json

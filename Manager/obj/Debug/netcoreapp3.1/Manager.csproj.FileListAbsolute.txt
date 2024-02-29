@@ -13,3 +13,4 @@ C:\Users\hp\Desktop\LocoBuzz\Training\Manager\bin\Debug\netcoreapp3.1\Repository
 C:\Users\hp\Desktop\LocoBuzz\Training\Manager\bin\Debug\netcoreapp3.1\Common.pdb
 C:\Users\hp\Desktop\LocoBuzz\Training\Manager\obj\Debug\netcoreapp3.1\Manager.csproj.AssemblyReference.cache
 C:\Users\hp\Desktop\LocoBuzz\Training\Manager\obj\Debug\netcoreapp3.1\Manager.csproj.Up2Date
+C:\Users\hp\Desktop\LocoBuzz\Training\Manager\obj\Debug\netcoreapp3.1\Manager.sourcelink.json

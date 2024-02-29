@@ -40,6 +40,30 @@ namespace Repository.Migrations
                     b.ToTable("DemoVersionTable");
                 });
 
+            modelBuilder.Entity("Repository.Entity.FeedBackEntity", b =>
+                {
+                    b.Property<int>("feedback_id")
+                        .ValueGeneratedOnAdd()
+                        .HasColumnType("int")
+                        .HasAnnotation("SqlServer:ValueGenerationStrategy", SqlServerValueGenerationStrategy.IdentityColumn);
+
+                    b.Property<string>("feedback_date")
+                        .HasColumnType("nvarchar(max)");
+
+                    b.Property<string>("feedback_message")
+                        .HasColumnType("nvarchar(max)");
+
+                    b.Property<string>("rating")
+                        .HasColumnType("nvarchar(max)");
+
+                    b.Property<int>("user_id")
+                        .HasColumnType("int");
+
+                    b.HasKey("feedback_id");
+
+                    b.ToTable("FeedBackTable");
+                });
+
             modelBuilder.Entity("Repository.Entity.NoteEntity", b =>
                 {
                     b.Property<int>("NotesId")

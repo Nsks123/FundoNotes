@@ -72,3 +72,5 @@ C:\Users\hp\Desktop\LocoBuzz\Training\Fundo_Notes1\bin\Debug\netcoreapp3.1\Micro
 C:\Users\hp\Desktop\LocoBuzz\Training\Fundo_Notes1\bin\Debug\netcoreapp3.1\NewId.dll
 C:\Users\hp\Desktop\LocoBuzz\Training\Fundo_Notes1\bin\Debug\netcoreapp3.1\Newtonsoft.Json.Bson.dll
 C:\Users\hp\Desktop\LocoBuzz\Training\Fundo_Notes1\bin\Debug\netcoreapp3.1\RabbitMQ.Client.dll
+C:\Users\hp\Desktop\LocoBuzz\Training\Fundo_Notes1\obj\Debug\netcoreapp3.1\Fundo_Notes1.sourcelink.json
+C:\Users\hp\Desktop\LocoBuzz\Training\Fundo_Notes1\bin\Debug\netcoreapp3.1\CloudinaryDotNet.dll

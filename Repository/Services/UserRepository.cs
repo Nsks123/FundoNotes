@@ -154,7 +154,7 @@ namespace Repository.Services
             var token = new JwtSecurityToken(config["Jwt:Issuer"],
                 config["Jwt:Audience"],
                 claims,
-                expires: DateTime.Now.AddMinutes(15),
+                expires: DateTime.Now.AddHours(24),
                 signingCredentials: credentials);
             
 
