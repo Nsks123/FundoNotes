@@ -1,4 +1,5 @@
 using Manager.Interfaces;
+using Manager.Services;
 using MassTransit;
 using Microsoft.AspNetCore.Authentication.JwtBearer;
 using Microsoft.AspNetCore.Builder;
@@ -38,6 +39,8 @@ namespace Fundo_Notes1
             services.AddDbContext<DemoContext>(options => options.UseSqlServer(Configuration["ConnectionStrings:FundoDb"]));
             services.AddTransient<IUserRepository, UserRepository>();
             services.AddTransient<IUserManager, UserManager>();
+            services.AddTransient<INoteRepository, NoteRepository>();
+            services.AddTransient<INoteManger, NoteManager>();
             services.AddControllers();
             services.AddSwaggerGen(option =>
             {
