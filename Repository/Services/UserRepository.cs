@@ -6,7 +6,6 @@ using Microsoft.IdentityModel.Tokens;
 using Repository.Context;
 using Repository.Entity;
 using Repository.Interfaces;
-using Repository.Migrations;
 using System;
 using System.Collections.Generic;
 using System.IdentityModel.Tokens.Jwt;

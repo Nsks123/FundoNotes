@@ -3,45 +3,32 @@
   "WorkspaceRootPath": "C:\\Users\\hp\\Desktop\\LocoBuzz\\Training\\Fundo_Notes1\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{B46396A3-F4D8-4BDF-84B6-AA4695A5F703}|Fundo_Notes1.csproj|c:\\users\\hp\\desktop\\locobuzz\\training\\fundo_notes1\\controllers\\notecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B46396A3-F4D8-4BDF-84B6-AA4695A5F703}|Fundo_Notes1.csproj|solutionrelative:controllers\\notecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{56014CEF-BEC3-416A-B37D-117C316580B8}|..\\Repository\\Repository.csproj|c:\\users\\hp\\desktop\\locobuzz\\training\\repository\\services\\collabrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B46396A3-F4D8-4BDF-84B6-AA4695A5F703}|Fundo_Notes1.csproj|c:\\users\\hp\\desktop\\locobuzz\\training\\fundo_notes1\\controllers\\collabcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B46396A3-F4D8-4BDF-84B6-AA4695A5F703}|Fundo_Notes1.csproj|solutionrelative:controllers\\collabcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EF391FB3-0766-46AE-B51E-7F8110629FA3}|..\\Manager\\Manager.csproj|c:\\users\\hp\\desktop\\locobuzz\\training\\manager\\interfaces\\icollabmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EF391FB3-0766-46AE-B51E-7F8110629FA3}|..\\Manager\\Manager.csproj|c:\\users\\hp\\desktop\\locobuzz\\training\\manager\\services\\collabmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{56014CEF-BEC3-416A-B37D-117C316580B8}|..\\Repository\\Repository.csproj|c:\\users\\hp\\desktop\\locobuzz\\training\\repository\\interfaces\\icollabrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{56014CEF-BEC3-416A-B37D-117C316580B8}|..\\Repository\\Repository.csproj|c:\\users\\hp\\desktop\\locobuzz\\training\\repository\\services\\noterepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{9317E7CE-82C1-43C9-988D-0E45B3937F3B}|..\\Common\\Common.csproj|c:\\users\\hp\\desktop\\locobuzz\\training\\common\\requestmodels\\createcollabmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{56014CEF-BEC3-416A-B37D-117C316580B8}|..\\Repository\\Repository.csproj|c:\\users\\hp\\desktop\\locobuzz\\training\\repository\\services\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{EF391FB3-0766-46AE-B51E-7F8110629FA3}|..\\Manager\\Manager.csproj|c:\\users\\hp\\desktop\\locobuzz\\training\\manager\\interfaces\\inotemanger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{EF391FB3-0766-46AE-B51E-7F8110629FA3}|..\\Manager\\Manager.csproj|c:\\users\\hp\\desktop\\locobuzz\\training\\manager\\services\\notemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{56014CEF-BEC3-416A-B37D-117C316580B8}|..\\Repository\\Repository.csproj|c:\\users\\hp\\desktop\\locobuzz\\training\\repository\\interfaces\\inoterepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{56014CEF-BEC3-416A-B37D-117C316580B8}|..\\Repository\\Repository.csproj|c:\\users\\hp\\desktop\\locobuzz\\training\\repository\\entity\\noteentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{9317E7CE-82C1-43C9-988D-0E45B3937F3B}|..\\Common\\Common.csproj|c:\\users\\hp\\desktop\\locobuzz\\training\\common\\requestmodels\\updatenotemodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{EF391FB3-0766-46AE-B51E-7F8110629FA3}|..\\Manager\\Manager.csproj|c:\\users\\hp\\desktop\\locobuzz\\training\\manager\\services\\usermanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B46396A3-F4D8-4BDF-84B6-AA4695A5F703}|Fundo_Notes1.csproj|c:\\users\\hp\\desktop\\locobuzz\\training\\fundo_notes1\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B46396A3-F4D8-4BDF-84B6-AA4695A5F703}|Fundo_Notes1.csproj|solutionrelative:controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{56014CEF-BEC3-416A-B37D-117C316580B8}|..\\Repository\\Repository.csproj|c:\\users\\hp\\desktop\\locobuzz\\training\\repository\\context\\democontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{9317E7CE-82C1-43C9-988D-0E45B3937F3B}|..\\Common\\Common.csproj|c:\\users\\hp\\desktop\\locobuzz\\training\\common\\requestmodels\\createnotemodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{9317E7CE-82C1-43C9-988D-0E45B3937F3B}|..\\Common\\Common.csproj|c:\\users\\hp\\desktop\\locobuzz\\training\\common\\requestmodels\\resetpasswordmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{56014CEF-BEC3-416A-B37D-117C316580B8}|..\\Repository\\Repository.csproj|c:\\users\\hp\\desktop\\locobuzz\\training\\repository\\entity\\collaborativeentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{B46396A3-F4D8-4BDF-84B6-AA4695A5F703}|Fundo_Notes1.csproj|c:\\users\\hp\\desktop\\locobuzz\\training\\fundo_notes1\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -55,182 +42,129 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 7,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "NoteEntity.cs",
-              "DocumentMoniker": "C:\\Users\\hp\\Desktop\\LocoBuzz\\Training\\Repository\\Entity\\NoteEntity.cs",
-              "RelativeDocumentMoniker": "..\\Repository\\Entity\\NoteEntity.cs",
-              "ToolTip": "C:\\Users\\hp\\Desktop\\LocoBuzz\\Training\\Repository\\Entity\\NoteEntity.cs",
-              "RelativeToolTip": "..\\Repository\\Entity\\NoteEntity.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAAnAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-02-29T10:45:54.67Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "UpdateNoteModel.cs",
-              "DocumentMoniker": "C:\\Users\\hp\\Desktop\\LocoBuzz\\Training\\Common\\RequestModels\\UpdateNoteModel.cs",
-              "RelativeDocumentMoniker": "..\\Common\\RequestModels\\UpdateNoteModel.cs",
-              "ToolTip": "C:\\Users\\hp\\Desktop\\LocoBuzz\\Training\\Common\\RequestModels\\UpdateNoteModel.cs",
-              "RelativeToolTip": "..\\Common\\RequestModels\\UpdateNoteModel.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAvAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-02-29T10:45:31.67Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "UserManager.cs",
-              "DocumentMoniker": "C:\\Users\\hp\\Desktop\\LocoBuzz\\Training\\Manager\\Services\\UserManager.cs",
-              "RelativeDocumentMoniker": "..\\Manager\\Services\\UserManager.cs",
-              "ToolTip": "C:\\Users\\hp\\Desktop\\LocoBuzz\\Training\\Manager\\Services\\UserManager.cs",
-              "RelativeToolTip": "..\\Manager\\Services\\UserManager.cs",
-              "ViewState": "AQIAABAAAAAAAAAAAAAzwAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-02-29T05:57:45.48Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 12,
-              "Title": "ResetPasswordModel.cs",
-              "DocumentMoniker": "C:\\Users\\hp\\Desktop\\LocoBuzz\\Training\\Common\\RequestModels\\ResetPasswordModel.cs",
-              "RelativeDocumentMoniker": "..\\Common\\RequestModels\\ResetPasswordModel.cs",
-              "ToolTip": "C:\\Users\\hp\\Desktop\\LocoBuzz\\Training\\Common\\RequestModels\\ResetPasswordModel.cs",
-              "RelativeToolTip": "..\\Common\\RequestModels\\ResetPasswordModel.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-02-29T05:44:23.083Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 11,
-              "Title": "CreateNoteModel.cs",
-              "DocumentMoniker": "C:\\Users\\hp\\Desktop\\LocoBuzz\\Training\\Common\\RequestModels\\CreateNoteModel.cs",
-              "RelativeDocumentMoniker": "..\\Common\\RequestModels\\CreateNoteModel.cs",
-              "ToolTip": "C:\\Users\\hp\\Desktop\\LocoBuzz\\Training\\Common\\RequestModels\\CreateNoteModel.cs",
-              "RelativeToolTip": "..\\Common\\RequestModels\\CreateNoteModel.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAIAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-02-28T11:53:05.849Z"
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 9,
-              "Title": "UserController.cs",
-              "DocumentMoniker": "C:\\Users\\hp\\Desktop\\LocoBuzz\\Training\\Fundo_Notes1\\Controllers\\UserController.cs",
-              "RelativeDocumentMoniker": "Controllers\\UserController.cs",
-              "ToolTip": "C:\\Users\\hp\\Desktop\\LocoBuzz\\Training\\Fundo_Notes1\\Controllers\\UserController.cs",
-              "RelativeToolTip": "Controllers\\UserController.cs",
-              "ViewState": "AQIAADAAAAAAAAAAAAAYwBcAAAAiAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-02-28T11:43:45.769Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "UserRepository.cs",
-              "DocumentMoniker": "C:\\Users\\hp\\Desktop\\LocoBuzz\\Training\\Repository\\Services\\UserRepository.cs",
-              "RelativeDocumentMoniker": "..\\Repository\\Services\\UserRepository.cs",
-              "ToolTip": "C:\\Users\\hp\\Desktop\\LocoBuzz\\Training\\Repository\\Services\\UserRepository.cs",
-              "RelativeToolTip": "..\\Repository\\Services\\UserRepository.cs",
-              "ViewState": "AQIAAHMAAAAAAAAAAAAiwLkAAAAmAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-02-28T09:44:47.059Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "NoteController.cs",
-              "DocumentMoniker": "C:\\Users\\hp\\Desktop\\LocoBuzz\\Training\\Fundo_Notes1\\Controllers\\NoteController.cs",
-              "RelativeDocumentMoniker": "Controllers\\NoteController.cs",
-              "ToolTip": "C:\\Users\\hp\\Desktop\\LocoBuzz\\Training\\Fundo_Notes1\\Controllers\\NoteController.cs",
-              "RelativeToolTip": "Controllers\\NoteController.cs",
-              "ViewState": "AQIAAMUAAAAAAAAAAAAAANUAAABhAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-02-28T07:27:58.101Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "INoteManger.cs",
-              "DocumentMoniker": "C:\\Users\\hp\\Desktop\\LocoBuzz\\Training\\Manager\\Interfaces\\INoteManger.cs",
-              "RelativeDocumentMoniker": "..\\Manager\\Interfaces\\INoteManger.cs",
-              "ToolTip": "C:\\Users\\hp\\Desktop\\LocoBuzz\\Training\\Manager\\Interfaces\\INoteManger.cs",
-              "RelativeToolTip": "..\\Manager\\Interfaces\\INoteManger.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAABIAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-02-28T07:27:04.148Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "NoteManager.cs",
-              "DocumentMoniker": "C:\\Users\\hp\\Desktop\\LocoBuzz\\Training\\Manager\\Services\\NoteManager.cs",
-              "RelativeDocumentMoniker": "..\\Manager\\Services\\NoteManager.cs",
-              "ToolTip": "C:\\Users\\hp\\Desktop\\LocoBuzz\\Training\\Manager\\Services\\NoteManager.cs",
-              "RelativeToolTip": "..\\Manager\\Services\\NoteManager.cs",
-              "ViewState": "AQIAABUAAAAAAAAAAAA1wDcAAABBAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-02-28T07:26:51.288Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "INoteRepository.cs",
-              "DocumentMoniker": "C:\\Users\\hp\\Desktop\\LocoBuzz\\Training\\Repository\\Interfaces\\INoteRepository.cs",
-              "RelativeDocumentMoniker": "..\\Repository\\Interfaces\\INoteRepository.cs",
-              "ToolTip": "C:\\Users\\hp\\Desktop\\LocoBuzz\\Training\\Repository\\Interfaces\\INoteRepository.cs",
-              "RelativeToolTip": "..\\Repository\\Interfaces\\INoteRepository.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAuwBMAAABIAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-02-28T07:26:30.996Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "NoteRepository.cs",
-              "DocumentMoniker": "C:\\Users\\hp\\Desktop\\LocoBuzz\\Training\\Repository\\Services\\NoteRepository.cs",
-              "RelativeDocumentMoniker": "..\\Repository\\Services\\NoteRepository.cs",
-              "ToolTip": "C:\\Users\\hp\\Desktop\\LocoBuzz\\Training\\Repository\\Services\\NoteRepository.cs",
-              "RelativeToolTip": "..\\Repository\\Services\\NoteRepository.cs",
-              "ViewState": "AQIAAJ0AAAAAAAAAAAAuwKYAAABFAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-02-28T07:23:43.583Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "DemoContext.cs",
-              "DocumentMoniker": "C:\\Users\\hp\\Desktop\\LocoBuzz\\Training\\Repository\\Context\\DemoContext.cs",
-              "RelativeDocumentMoniker": "..\\Repository\\Context\\DemoContext.cs",
-              "ToolTip": "C:\\Users\\hp\\Desktop\\LocoBuzz\\Training\\Repository\\Context\\DemoContext.cs",
-              "RelativeToolTip": "..\\Repository\\Context\\DemoContext.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAIAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-02-28T07:22:29.986Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 13,
               "Title": "Startup.cs",
               "DocumentMoniker": "C:\\Users\\hp\\Desktop\\LocoBuzz\\Training\\Fundo_Notes1\\Startup.cs",
               "RelativeDocumentMoniker": "Startup.cs",
               "ToolTip": "C:\\Users\\hp\\Desktop\\LocoBuzz\\Training\\Fundo_Notes1\\Startup.cs",
               "RelativeToolTip": "Startup.cs",
-              "ViewState": "AQIAAA8AAAAAAAAAAIBJwHsAAAAPAAAA",
+              "ViewState": "AQIAABwAAAAAAAAAAAAzwCwAAABDAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-02-22T11:38:29.648Z"
+              "WhenOpened": "2024-03-04T10:41:38.505Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "CreateCollabModel.cs",
+              "DocumentMoniker": "C:\\Users\\hp\\Desktop\\LocoBuzz\\Training\\Common\\RequestModels\\CreateCollabModel.cs",
+              "RelativeDocumentMoniker": "..\\Common\\RequestModels\\CreateCollabModel.cs",
+              "ToolTip": "C:\\Users\\hp\\Desktop\\LocoBuzz\\Training\\Common\\RequestModels\\CreateCollabModel.cs",
+              "RelativeToolTip": "..\\Common\\RequestModels\\CreateCollabModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAvAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-04T09:46:34.495Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "CollabRepository.cs",
+              "DocumentMoniker": "C:\\Users\\hp\\Desktop\\LocoBuzz\\Training\\Repository\\Services\\CollabRepository.cs",
+              "RelativeDocumentMoniker": "..\\Repository\\Services\\CollabRepository.cs",
+              "ToolTip": "C:\\Users\\hp\\Desktop\\LocoBuzz\\Training\\Repository\\Services\\CollabRepository.cs",
+              "RelativeToolTip": "..\\Repository\\Services\\CollabRepository.cs",
+              "ViewState": "AQIAAA0AAAAAAAAAAAAAABEAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-04T09:30:56.261Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ICollabRepository.cs",
+              "DocumentMoniker": "C:\\Users\\hp\\Desktop\\LocoBuzz\\Training\\Repository\\Interfaces\\ICollabRepository.cs",
+              "RelativeDocumentMoniker": "..\\Repository\\Interfaces\\ICollabRepository.cs",
+              "ToolTip": "C:\\Users\\hp\\Desktop\\LocoBuzz\\Training\\Repository\\Interfaces\\ICollabRepository.cs",
+              "RelativeToolTip": "..\\Repository\\Interfaces\\ICollabRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAABZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-04T09:31:33.955Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "CollabManager.cs",
+              "DocumentMoniker": "C:\\Users\\hp\\Desktop\\LocoBuzz\\Training\\Manager\\Services\\CollabManager.cs",
+              "RelativeDocumentMoniker": "..\\Manager\\Services\\CollabManager.cs",
+              "ToolTip": "C:\\Users\\hp\\Desktop\\LocoBuzz\\Training\\Manager\\Services\\CollabManager.cs",
+              "RelativeToolTip": "..\\Manager\\Services\\CollabManager.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAABoAAABEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-04T09:32:19.632Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ICollabManager.cs",
+              "DocumentMoniker": "C:\\Users\\hp\\Desktop\\LocoBuzz\\Training\\Manager\\Interfaces\\ICollabManager.cs",
+              "RelativeDocumentMoniker": "..\\Manager\\Interfaces\\ICollabManager.cs",
+              "ToolTip": "C:\\Users\\hp\\Desktop\\LocoBuzz\\Training\\Manager\\Interfaces\\ICollabManager.cs",
+              "RelativeToolTip": "..\\Manager\\Interfaces\\ICollabManager.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAABZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-04T09:33:10.459Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CollabController.cs",
+              "DocumentMoniker": "C:\\Users\\hp\\Desktop\\LocoBuzz\\Training\\Fundo_Notes1\\Controllers\\CollabController.cs",
+              "RelativeDocumentMoniker": "Controllers\\CollabController.cs",
+              "ToolTip": "C:\\Users\\hp\\Desktop\\LocoBuzz\\Training\\Fundo_Notes1\\Controllers\\CollabController.cs",
+              "RelativeToolTip": "Controllers\\CollabController.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAYwEwAAABrAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-04T09:33:52.33Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "CollaborativeEntity.cs",
+              "DocumentMoniker": "C:\\Users\\hp\\Desktop\\LocoBuzz\\Training\\Repository\\Entity\\CollaborativeEntity.cs",
+              "RelativeDocumentMoniker": "..\\Repository\\Entity\\CollaborativeEntity.cs",
+              "ToolTip": "C:\\Users\\hp\\Desktop\\LocoBuzz\\Training\\Repository\\Entity\\CollaborativeEntity.cs",
+              "RelativeToolTip": "..\\Repository\\Entity\\CollaborativeEntity.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAABkAAAAUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-04T05:58:13.376Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "UserRepository.cs",
+              "DocumentMoniker": "C:\\Users\\hp\\Desktop\\LocoBuzz\\Training\\Repository\\Services\\UserRepository.cs",
+              "RelativeDocumentMoniker": "..\\Repository\\Services\\UserRepository.cs",
+              "ToolTip": "C:\\Users\\hp\\Desktop\\LocoBuzz\\Training\\Repository\\Services\\UserRepository.cs",
+              "RelativeToolTip": "..\\Repository\\Services\\UserRepository.cs",
+              "ViewState": "AQIAACcAAAAAAAAAAAAYwBwAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-03T11:30:26.987Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "NoteRepository.cs",
+              "DocumentMoniker": "C:\\Users\\hp\\Desktop\\LocoBuzz\\Training\\Repository\\Services\\NoteRepository.cs",
+              "RelativeDocumentMoniker": "..\\Repository\\Services\\NoteRepository.cs",
+              "ToolTip": "C:\\Users\\hp\\Desktop\\LocoBuzz\\Training\\Repository\\Services\\NoteRepository.cs",
+              "RelativeToolTip": "..\\Repository\\Services\\NoteRepository.cs",
+              "ViewState": "AQIAAC8AAAAAAAAAAAAgwCIAAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-01T11:47:16.736Z"
             }
           ]
         }

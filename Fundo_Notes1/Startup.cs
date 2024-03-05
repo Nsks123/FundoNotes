@@ -41,6 +41,8 @@ namespace Fundo_Notes1
             services.AddTransient<IUserManager, UserManager>();
             services.AddTransient<INoteRepository, NoteRepository>();
             services.AddTransient<INoteManger, NoteManager>();
+            services.AddTransient<ICollabRepository, CollabRepository>();
+            services.AddTransient<ICollabManager, CollabManager>();
             services.AddControllers();
             services.AddSwaggerGen(option =>
             {

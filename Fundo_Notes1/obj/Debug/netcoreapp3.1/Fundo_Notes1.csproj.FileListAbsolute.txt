@@ -74,3 +74,6 @@ C:\Users\hp\Desktop\LocoBuzz\Training\Fundo_Notes1\bin\Debug\netcoreapp3.1\Newto
 C:\Users\hp\Desktop\LocoBuzz\Training\Fundo_Notes1\bin\Debug\netcoreapp3.1\RabbitMQ.Client.dll
 C:\Users\hp\Desktop\LocoBuzz\Training\Fundo_Notes1\obj\Debug\netcoreapp3.1\Fundo_Notes1.sourcelink.json
 C:\Users\hp\Desktop\LocoBuzz\Training\Fundo_Notes1\bin\Debug\netcoreapp3.1\CloudinaryDotNet.dll
+C:\Users\hp\Desktop\LocoBuzz\Training\Fundo_Notes1\bin\Debug\netcoreapp3.1\NLog.dll
+C:\Users\hp\Desktop\LocoBuzz\Training\Fundo_Notes1\bin\Debug\netcoreapp3.1\NLog.Extensions.Logging.dll
+C:\Users\hp\Desktop\LocoBuzz\Training\Fundo_Notes1\bin\Debug\netcoreapp3.1\NLog.Web.AspNetCore.dll
