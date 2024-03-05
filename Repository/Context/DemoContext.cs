@@ -12,6 +12,10 @@ namespace Repository.Context
         DbSet<DemoEntity> DemoVersionTable { get; set; }
         public DbSet<User> UserTable { get; set; }
         public DbSet<NoteEntity> NoteTable { get; set; }
+        public DbSet<LabelNote> LabelNoteTable { get; set; }
+        public DbSet<CollaborativeEntity> CollaborativeTable { get; set;}
+
+        
         
 
     }
