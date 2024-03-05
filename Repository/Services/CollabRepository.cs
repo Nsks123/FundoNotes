@@ -16,6 +16,7 @@ namespace Repository.Services
         public CollabRepository(DemoContext context) { 
             this.context = context;
         }
+        //Registration For Collabrator
         public CollaborativeEntity AddColab(int id,int NotesId,CreateCollabModel model)
         {
             
@@ -38,10 +39,12 @@ namespace Repository.Services
                 throw new Exception();
             }                        
         }
+        //Fetch Collabrator
         public List<CollaborativeEntity> FetchCollab(int id,int NotesId)
         {
             return context.CollaborativeTable.Where<CollaborativeEntity>(a => a.UserId == id && a.NotesId==NotesId).ToList();
         }
+        //Remove Collabrator
         public CollaborativeEntity RemoveCollab(int id,int NotesId,string CollabEmail)
         {
             var check = context.CollaborativeTable.FirstOrDefault(o => o.UserId == id && o.NotesId == NotesId && o.CollabEmail == CollabEmail);
