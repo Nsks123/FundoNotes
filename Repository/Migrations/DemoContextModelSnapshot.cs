@@ -19,6 +19,40 @@ namespace Repository.Migrations
                 .HasAnnotation("Relational:MaxIdentifierLength", 128)
                 .HasAnnotation("SqlServer:ValueGenerationStrategy", SqlServerValueGenerationStrategy.IdentityColumn);
 
+            modelBuilder.Entity("Repository.Entity.CollaborativeEntity", b =>
+                {
+                    b.Property<int>("CollabId")
+                        .ValueGeneratedOnAdd()
+                        .HasColumnType("int")
+                        .HasAnnotation("SqlServer:ValueGenerationStrategy", SqlServerValueGenerationStrategy.IdentityColumn);
+
+                    b.Property<string>("CollabEmail")
+                        .HasColumnType("nvarchar(max)");
+
+                    b.Property<DateTime>("CreatedAt")
+                        .HasColumnType("datetime2");
+
+                    b.Property<int>("NotesId")
+                        .HasColumnType("int");
+
+                    b.Property<bool>("Trash")
+                        .HasColumnType("bit");
+
+                    b.Property<DateTime>("UpdatedAt")
+                        .HasColumnType("datetime2");
+
+                    b.Property<int>("UserId")
+                        .HasColumnType("int");
+
+                    b.HasKey("CollabId");
+
+                    b.HasIndex("NotesId");
+
+                    b.HasIndex("UserId");
+
+                    b.ToTable("CollaborativeTable");
+                });
+
             modelBuilder.Entity("Repository.Entity.DemoEntity", b =>
                 {
                     b.Property<int>("Id")
@@ -40,28 +74,29 @@ namespace Repository.Migrations
                     b.ToTable("DemoVersionTable");
                 });
 
-            modelBuilder.Entity("Repository.Entity.FeedBackEntity", b =>
+            modelBuilder.Entity("Repository.Entity.LabelNote", b =>
                 {
-                    b.Property<int>("feedback_id")
+                    b.Property<int>("LabelId")
                         .ValueGeneratedOnAdd()
                         .HasColumnType("int")
                         .HasAnnotation("SqlServer:ValueGenerationStrategy", SqlServerValueGenerationStrategy.IdentityColumn);
 
-                    b.Property<string>("feedback_date")
-                        .HasColumnType("nvarchar(max)");
-
-                    b.Property<string>("feedback_message")
-                        .HasColumnType("nvarchar(max)");
-
-                    b.Property<string>("rating")
-                        .HasColumnType("nvarchar(max)");
-
-                    b.Property<int>("user_id")
+                    b.Property<int>("Id")
                         .HasColumnType("int");
 
-                    b.HasKey("feedback_id");
+                    b.Property<string>("LabelName")
+                        .HasColumnType("nvarchar(max)");
 
-                    b.ToTable("FeedBackTable");
+                    b.Property<int>("NotesId")
+                        .HasColumnType("int");
+
+                    b.HasKey("LabelId");
+
+                    b.HasIndex("Id");
+
+                    b.HasIndex("NotesId");
+
+                    b.ToTable("LabelNoteTable");
                 });
 
             modelBuilder.Entity("Repository.Entity.NoteEntity", b =>
@@ -133,6 +168,36 @@ namespace Repository.Migrations
                     b.HasKey("Id");
 
                     b.ToTable("UserTable");
+                });
+
+            modelBuilder.Entity("Repository.Entity.CollaborativeEntity", b =>
+                {
+                    b.HasOne("Repository.Entity.NoteEntity", "NoteId")
+                        .WithMany()
+                        .HasForeignKey("NotesId")
+                        .OnDelete(DeleteBehavior.Cascade)
+                        .IsRequired();
+
+                    b.HasOne("Repository.Entity.User", "Note")
+                        .WithMany()
+                        .HasForeignKey("UserId")
+                        .OnDelete(DeleteBehavior.Cascade)
+                        .IsRequired();
+                });
+
+            modelBuilder.Entity("Repository.Entity.LabelNote", b =>
+                {
+                    b.HasOne("Repository.Entity.User", "Note")
+                        .WithMany()
+                        .HasForeignKey("Id")
+                        .OnDelete(DeleteBehavior.Cascade)
+                        .IsRequired();
+
+                    b.HasOne("Repository.Entity.NoteEntity", "NoteId")
+                        .WithMany()
+                        .HasForeignKey("NotesId")
+                        .OnDelete(DeleteBehavior.Cascade)
+                        .IsRequired();
                 });
 
             modelBuilder.Entity("Repository.Entity.NoteEntity", b =>

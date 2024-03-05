@@ -43,17 +43,33 @@ namespace Manager.Services
         {
             return repository.Pin(NotesId);
         }
-        public NoteEntity Colour(int NotesId)
+        public NoteEntity Colour(int NotesId, string Colour)
         {
-            return repository.Colour(NotesId);
+            return repository.Colour(NotesId, Colour);
         }
-        public NoteEntity Reminder(int NotesId)
+        public NoteEntity Reminder(int NotesId, DateTime Reminder)
         {
-            return repository.Reminder(NotesId);
+            return repository.Reminder(NotesId, Reminder);
         }
         public string UploadImage(string filepath, int NotesId, int Id)
         {
             return repository.UploadImage(filepath, NotesId, Id);
+        }
+        public LabelNote AddLabel(int NoteId, int id, AddLabel label)
+        {
+            return repository.AddLabel(NoteId, id, label);  
+        }
+        public List<LabelNote> FetchLabel(int id, string LabelName)
+        {
+            return repository.FetchLabel(id, LabelName);
+        }
+        public LabelNote UpdateLabel(int LabelId, string LabelName)
+        {
+            return repository.UpdateLabel(LabelId, LabelName);
+        }
+        public LabelNote RemoveLabel(int NoteId, int LabelId)
+        {
+            return repository.RemoveLabel(NoteId, LabelId);
         }
     }
         

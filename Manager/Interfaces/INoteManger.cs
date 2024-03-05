@@ -15,9 +15,13 @@ namespace Manager.Interfaces
         public NoteEntity DeleteNote(int NotesId, int id);
         public NoteEntity Archive(int NotesId);
         public NoteEntity Pin(int NotesId);
-        public NoteEntity Colour(int NotesId);
-        public NoteEntity Reminder(int NotesId);
+        public NoteEntity Colour(int NotesId, string Colour);
+        public NoteEntity Reminder(int NotesId, DateTime Reminder);
         public string UploadImage(string filepath, int NotesId, int Id);
+        public LabelNote AddLabel(int NoteId, int id, AddLabel label);
+        public List<LabelNote> FetchLabel(int id, string LabelName);
+        public LabelNote UpdateLabel(int LabelId, string LabelName);
+        public LabelNote RemoveLabel(int NoteId, int LabelId);
     }
         
 }

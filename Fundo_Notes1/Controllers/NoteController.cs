@@ -170,10 +170,10 @@ namespace Fundo_Notes1.Controllers
         [Authorize]
         [HttpPut]
         [Route("Colour")]
-        public ActionResult Colour(int NotesId) 
+        public ActionResult Colour(int NotesId,string Colour) 
         { 
 
-            var response= noteManger.Colour(NotesId);
+            var response= noteManger.Colour(NotesId,Colour);
             if(response != null)
             {
                 return Ok(new ResModel<NoteEntity> { Success = true, Message = "Colour Note Success", Data = response });
@@ -186,9 +186,9 @@ namespace Fundo_Notes1.Controllers
         [Authorize]
         [HttpPut]
         [Route("Remind")]
-        public ActionResult Remind(int NotesId) 
+        public ActionResult Remind(int NotesId, DateTime Reminder) 
         {
-            var response = noteManger.Reminder(NotesId);
+            var response = noteManger.Reminder(NotesId,Reminder);
             if (response != null)
             {
                 return Ok(new ResModel<NoteEntity> { Success = true, Message = "Reminder Note Success", Data = response });
@@ -214,5 +214,7 @@ namespace Fundo_Notes1.Controllers
                 return BadRequest(new ResModel<string> { Success = false, Message = "Upload Image Failed", Data = response });
             }
         }
+        
+
     }
 }

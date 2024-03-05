@@ -7,9 +7,9 @@ using Microsoft.AspNetCore.Authorization;
 using Microsoft.AspNetCore.Http;
 using Microsoft.AspNetCore.Identity;
 using Microsoft.AspNetCore.Mvc;
+using Microsoft.Extensions.Logging;
 using Repository.Context;
 using Repository.Entity;
-using Repository.Migrations;
 using System;
 using System.Linq;
 using System.Threading.Tasks;
@@ -23,13 +23,14 @@ namespace Fundo_Notes1.Controllers
         private readonly IUserManager userManager;
         private readonly IBus bus;
         private readonly DemoContext demoContext;
-        
+        private readonly ILogger <UserController> logger;
 
-        public UserController(IUserManager userManager,IBus bus,DemoContext demoContext)
+        public UserController(IUserManager userManager,IBus bus,DemoContext demoContext, ILogger<UserController> logger)
         {
             this.userManager = userManager;
             this.bus = bus;
             this.demoContext = demoContext;
+            this.logger = logger;
         }
         [HttpPost]
         [Route("Reg")]
@@ -40,10 +41,12 @@ namespace Fundo_Notes1.Controllers
                 var response = userManager.UserRegistration(model);
                 if (response != null)
                 {
+                    logger.LogInformation("Register successful");
                     return Ok(new ResModel<User> { Success = true, Message = "register successfull", Data = response });
                 }
                 else
                 {
+                    logger.LogWarning("Register Unsuccessful");
                     return BadRequest(new ResModel<User> { Success = false, Message = "Register failed", Data = response });
                 }
 

@@ -141,24 +141,24 @@ namespace Repository.Services
 
         }
         //Colour
-        public NoteEntity Colour(int NotesId)
+        public NoteEntity Colour(int NotesId,string Colour)
         {
             var color = context.NoteTable.FirstOrDefault(o => o.NotesId == NotesId);
             if(color != null)
             {
-                color.Colour = "Blue";
+                color.Colour = Colour;
                 context.SaveChanges();
             }
             return color;
 
         }
         //Reminder
-        public NoteEntity Reminder(int NotesId)
+        public NoteEntity Reminder(int NotesId,DateTime Reminder)
         {
             var remind=context.NoteTable.FirstOrDefault(o=>o.NotesId == NotesId);
             if (remind != null)
             {
-                remind.Reminder = DateTime.UtcNow;                
+                remind.Reminder = Reminder;                
                 context.SaveChanges();
             }
             return remind;
@@ -174,7 +174,7 @@ namespace Repository.Services
                     var findNotes = filter.FirstOrDefault(e => e.NotesId == NotesId);
                     if (findNotes != null)
                     {
-                        Account account = new Account("dygoi0kzf", "822117938224726", "***************************");
+                        Account account = new Account("dygoi0kzf", "822117938224726", "DmntXzwnkbSDGj-depe7MShNlLU");
                         Cloudinary cloudinary = new Cloudinary(account);
                         ImageUploadParams uploadParams = new ImageUploadParams()
                         {
@@ -195,5 +195,55 @@ namespace Repository.Services
             catch (Exception ex) {  return null; }
 
         }
+        //Add Label
+        public LabelNote AddLabel(int NoteId,int id,AddLabel label)
+        {
+            var add = context.NoteTable.FirstOrDefault(o => (o.NotesId == NoteId && o.Id == id));
+            LabelNote note = new LabelNote();
+            if (add != null)
+            {
+                
+                note.LabelName = label.LabelName;
+                note.NotesId = NoteId;
+                note.Id = id;
+                context.LabelNoteTable.Add(note);
+                context.SaveChanges();
+                return note;
+            }
+            throw new Exception();
+        }
+        //Fetch Label
+        public List<LabelNote> FetchLabel(int id,string LabelName)
+        {
+            return context.LabelNoteTable.Where<LabelNote>(a =>a.Id==id && a.LabelName == LabelName).ToList();
+        }
+        //Update Label
+        public LabelNote UpdateLabel(int NoteId, string LabelName)
+        {
+            var noteToUpdate = context.LabelNoteTable.FirstOrDefault(note => note.NotesId == NoteId);
+            if (noteToUpdate != null)
+            {
+                noteToUpdate.LabelName = LabelName;               
+                context.SaveChanges();
+                
+
+            }
+            return noteToUpdate;
+        }
+        //Remove Label
+        public LabelNote RemoveLabel(int NoteId,int LabelId)
+        {
+            var del = context.LabelNoteTable.FirstOrDefault(o =>o.NotesId==NoteId && o.LabelId==LabelId);
+            if (del != null)
+            {
+                context.LabelNoteTable.Remove(del);
+                context.SaveChanges();
+            }
+            else
+            {
+                throw new Exception("Wrong Input");
+            }
+            return del;
+        }                
     }
 }
